@@ -1,8 +1,8 @@
-### Hi there 👋
+# Wellinton Batista
 
 <!--
 **WellPeres/WellPeres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Helloo! 👋 Welcome to my profile
+
+My name is Wellinton and ...:
+
+- 🌱 I’m currently learning  **Python** and **JAVA**.
+- 🤔 I'm looking for the first chance to stage.
+- 📫 How to reach me: 
+- E-Mail: WellDev.Peres@gmail.com
+- Linked-In: www.linkedin.com/in/welldev-peres
+
+
