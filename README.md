@@ -19,8 +19,18 @@ Here are some ideas to get you started:
 
 My name is Wellinton and ...:
 
-- 🌱 I’m currently learning  **Python** and **JAVA**.
+- 🌱 I’m currently learning  **Python** and **Django**.
 - 🤔 I'm looking for the first chance to stage.
+
+<div>
+  <a href="https://github.com/wheslleyrimar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellPeres&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WellPeres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+### Social Networks:
+
+
 - 📫 How to reach me: 
 - E-Mail: WellDev.Peres@gmail.com
 - Linked-In: www.linkedin.com/in/welldev-peres
