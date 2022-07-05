@@ -35,7 +35,7 @@ My name is Wellinton and ...:
 
 - 📫 How to reach me: 
   
-- E-Mail: WellDev.Peres@gmail.com
+- E-Mail: welldev.peres@gmail.com
 - Linked-In: www.linkedin.com/in/welldev-peres
 
 
